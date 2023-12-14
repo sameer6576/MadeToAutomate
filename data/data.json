@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "Name": ["IR Sensor", "Name"],
+      "desc": ["Product Description", "Description"],
+      "quantity": [0, "Quantity"]
+    },
+    {
+      "Name": ["MotherBoard", "Name"],
+      "desc": ["Product Description", "Description"],
+      "quantity": [0, "Quantity"]
+    },
+    {
+      "Name": ["Pendrive", "Name"],
+      "desc": ["Product Description", "Description"],
+      "quantity": [0, "Quantity"]
+    }
+  ]
+}
